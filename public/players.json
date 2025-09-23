@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMFOuArCTohmfkabbQGSF3m0BWh74-J59vqw&s",
+    "name": "তামিম ইকবাল",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": 8.5,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "N/A",
+    "price": "৳ 1,30,00,000"
+  },
+  {
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoF9Tv_iD2OKXGpEjtv7vf9kpqT6rtliZaiQ&s",
+    "name": "লিটন দাস",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper Batsman",
+    "rating": 8.2,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "price": "৳ 95,00,000"
+  },
+  {
+    "id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAs4nddCWRFGCzuBrNh1U8ifYbes_THLXc1Q&s",
+    "name": "মুশফিকুর রহিম",
+    "country": "Bangladesh",
+    "role": "Wicketkeeper Batsman",
+    "rating": 8.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "price": "৳ 1,10,00,000"
+  },
+  {
+    "id": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYdY_K-m5XPblXaOy8CkR3VuvkrhyKFcxGA&s",
+    "name": "শাকিব আল হাসান",
+    "country": "Bangladesh",
+    "role": "Allrounder",
+    "rating": 9.5,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "price": "৳ 1,50,00,000"
+  },
+  {
+    "id": 5,
+    "image": "https://www.dhakatimes24.com/assets/news_photos/2019/11/30/image-143120.jpg",
+    "name": "মাহমুদউল্লাহ রিয়াদ",
+    "country": "Bangladesh",
+    "role": "Allrounder",
+    "rating": 8.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "৳ 1,00,00,000"
+  },
+  {
+    "id": 6,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2q_lwgMIuNVpnxK7egW7ZZThmIRmpXE7WwA&s",
+    "name": "সৌম্য সরকার",
+    "country": "Bangladesh",
+    "role": "Batting Allrounder",
+    "rating": 7.8,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm medium-fast",
+    "price": "৳ 60,00,000"
+  },
+  {
+    "id": 7,
+    "image": "https://tds-images.thedailystar.net/sites/default/files/styles/big_6/public/feature/images/mehedi_hasan_miraz_1.jpg",
+    "name": "মেহেদী হাসান মিরাজ",
+    "country": "Bangladesh",
+    "role": "Allrounder",
+    "rating": 8.3,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": "৳ 85,00,000"
+  },
+  {
+    "id": 8,
+    "image": "https://media.gettyimages.com/id/1436041107/photo/hobart-australia-taskin-ahmed-of-bangladesh-celebrates-the-wicket-of-colin-ackermann-of-the.jpg?s=612x612&w=gi&k=20&c=V3bKYXyxaTMuY203td248DdqC_6FYKOZGGPn6HFd80U=",
+    "name": "তাসকিন আহামেদ",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 8.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": "৳ 70,00,000"
+  },
+  {
+    "id": 9,
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/382300/382321.jpg",
+    "name": "মোস্তাফিজুর রহমান",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 9.0,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": "৳ 1,05,00,000"
+  },
+  {
+    "id": 10,
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2021/12/23/saifuddin.jpg",
+    "name": "মোহাম্মদ সাইফুদ্দিন",
+    "country": "Bangladesh",
+    "role": "Bowling Allrounder",
+    "rating": 7.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium-fast",
+    "price": "৳ 55,00,000"
+  },
+  {
+    "id": 11,
+    "image": "https://d2u0ktu8omkpf6.cloudfront.net/60426c3ac4eb14c3e7e4bfb7777a8d048a677f53d326ac7d.jpg",
+    "name": "নাজমুল হোসেন শান্ত",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": 8.1,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "N/A",
+    "price": "৳ 50,00,000"
+  },
+  {
+    "id": 12,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ87yDLgoWSR2jmlYkyoK8PIUeKm8La-y0N6g&s",
+    "name": "শরিফুল ইসলাম",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 8.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "price": "৳ 45,00,000"
+  }
+]
