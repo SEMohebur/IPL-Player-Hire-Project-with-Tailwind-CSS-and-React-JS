@@ -4,7 +4,7 @@ import logo from "../assets/logo-footer.png";
 
 const Footer = () => {
   return (
-    <div className=" mt-10 max-w-[1200px] mx-auto bg-gray-900 text-white">
+    <div className=" mt-20 container mx-auto bg-gray-900 text-white">
       <div className=" flex flex-col pb-10">
         <div className=" flex justify-center p-4">
           <img className=" h-[100px] " src={logo} alt="" />
@@ -32,13 +32,14 @@ const Footer = () => {
             <p className=" font-thin">
               Subscribe to our newsletter for the latest updates.
             </p>
-            <div className=" flex relative bg-gray-200 rounded-2xl text-gray-500">
+
+            <div className="flex rounded-lg ">
               <input
-                className="  p-1 rounded-l-xl outline-none"
-                type="text"
-                placeholder="enter your email"
+                type="email"
+                placeholder="Enter your email"
+                className="flex-grow md:px-3 md:py-2 w-10 md:w-full text-gray-800 bg-white rounded-l-lg focus:outline-none focus:ring-2 focus:ring-red-500 sm:text-sm"
               />
-              <button className=" absolute end-0 p-1 rounded-r-xl   bg-linear-to-r/longer from-indigo-900 to-teal-300 text-white font-bold cursor-pointer">
+              <button className="md:px-4 md:py-2 text-sm font-thin  bg-red-500 text-white cursor-pointer md:font-bold rounded-r-lg hover:bg-red-600 transition duration-200 sm:px-3 sm:text-sm">
                 Subscribe
               </button>
             </div>

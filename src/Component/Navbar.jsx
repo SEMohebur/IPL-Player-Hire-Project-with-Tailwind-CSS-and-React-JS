@@ -4,14 +4,14 @@ import dollerPng from "../assets/Currency.png";
 
 const Navbar = ({ availableBalance }) => {
   return (
-    <div className="navbar flex justify-between bg-base-100  p-2 max-w-[1200px] mx-auto">
+    <div className="navbar flex flex-col md:flex-row justify-between bg-base-100  p-2 container mx-auto">
       <div className="">
         <a className=" text-xl">
           <img className=" h-[60px]" src={logo} alt="" />
         </a>
       </div>
 
-      <div className=" flex items-center gap-3">
+      <div className=" flex flex-col md:flex-row items-center gap-3">
         <ul className=" flex gap-4 text-gray-600">
           <li className=" cursor-pointer">Home</li>
           <li className=" cursor-pointer">Fixture</li>

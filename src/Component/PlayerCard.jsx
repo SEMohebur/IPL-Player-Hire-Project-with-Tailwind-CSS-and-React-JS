@@ -42,13 +42,15 @@ const PlayerCard = ({
           <p className=" font-bold text-xl">{item.name}</p>
         </div>
 
-        <div className=" flex justify-between items-center text-gray-500">
+        <div className=" flex flex-col md:flex-row  justify-between items-center text-gray-500">
           <div className=" flex items-center gap-3">
             <i className="fa-solid fa-flag text-xl "></i>
             <p>{item.country}</p>
           </div>
           <div>
-            <span className=" bg-gray-200 p-2 rounded-md">{item.role}</span>
+            <span className=" bg-gray-200 p-2 rounded-md font-thin text-sm">
+              {item.role}
+            </span>
           </div>
         </div>
 

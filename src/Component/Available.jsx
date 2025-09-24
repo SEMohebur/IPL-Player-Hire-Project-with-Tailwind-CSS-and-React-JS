@@ -13,7 +13,7 @@ const Available = ({
   // console.log(playersData);
 
   return (
-    <div className=" grid grid-cols-2 md:grid-cols-3 gap-4 max-w-[1200px] mx-auto pt-5">
+    <div className=" grid grid-cols-2 md:grid-cols-3 gap-4 container mx-auto pt-5">
       {/* playerCard maping */}
       {playersData.map((item, index) => {
         return (

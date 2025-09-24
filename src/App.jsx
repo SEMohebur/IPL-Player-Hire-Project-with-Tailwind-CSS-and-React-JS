@@ -34,7 +34,7 @@ const App = () => {
 
       <Banner></Banner>
 
-      <div className=" flex items-center justify-between max-w-[1200px] mx-auto pt-4">
+      <div className=" flex flex-col md:flex-row items-center justify-between container mx-auto py-4">
         <div className=" font-bold text-xl">
           {toggle ? (
             <h1>Available Players</h1>

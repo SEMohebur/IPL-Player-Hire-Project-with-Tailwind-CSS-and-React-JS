@@ -3,7 +3,7 @@ import SelectedPlayerCard from "./SelectedPlayerCard";
 
 const SelectedPlayerPage = ({ selectedPlayers, removePlayer, settoggle }) => {
   return (
-    <div className=" max-w-[1200px] mx-auto ">
+    <div className=" container mx-auto ">
       {selectedPlayers.map((player, index) => {
         return (
           <SelectedPlayerCard
@@ -14,7 +14,7 @@ const SelectedPlayerPage = ({ selectedPlayers, removePlayer, settoggle }) => {
         );
       })}
 
-      <div>
+      <div className=" flex items-center md:float-left justify-center ">
         <button
           onClick={() => settoggle(true)}
           className=" bg-lime-200 p-2 rounded-xl cursor-pointer"

@@ -4,7 +4,7 @@ import bannerBgImage from "../assets/bg-shadow.png";
 
 const Banner = () => {
   return (
-    <div className=" relative flex justify-center items-center max-w-[1200px] mx-auto bg-gray-900 p-10 rounded-xl my-10">
+    <div className=" relative flex justify-center items-center container mx-auto bg-gray-900 p-10 rounded-xl my-10 text-center">
       <div
         className=" absolute z-0  inset-0 rounded-xl"
         style={{ backgroundImage: `url(${bannerBgImage})` }}
